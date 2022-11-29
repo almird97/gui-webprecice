@@ -1,0 +1,1 @@
+jdbc:mysql://163.123.183.89:15406/vpsdb?allowPublicKeyRetrieval=true&useSSL=false?useTimeZone=true&serverTimezone=UTC&autoReconnect=true&useSSL=false almir97 mspassword

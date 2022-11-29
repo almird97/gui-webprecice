@@ -1,0 +1,18 @@
+.root 
+{
+
+}
+#novi:hover, #obrisi:hover, #lista:hover
+{
+    -fx-text-fill:black;
+    -fx-opacity: 1;
+}
+#otvoriws:hover
+{
+    -fx-text-fill:yellow;
+    -fx-opacity: 1;
+}
+#italmlogo:hover
+{
+    -fx-opacity: 0.5;
+}

@@ -1,0 +1,1 @@
+jdbc:mysql:// ip adresa : portal /vpsdb?allowPublicKeyRetrieval=true&useSSL=false?useTimeZone=true&serverTimezone=UTC&autoReconnect=true&useSSL=false username password
